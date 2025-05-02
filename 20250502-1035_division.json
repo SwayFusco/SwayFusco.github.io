@@ -1,0 +1,13 @@
+{ "divisions": [
+		{
+			"name": "SwayPlay",
+			"icon": "🟣",
+			"info": "Handling fun and spiritual restoration"
+		},
+		{
+			"name": "Sway",
+			"icon": "🟢",
+			"info": "Handling day to day activities"
+		}
+	]
+}
