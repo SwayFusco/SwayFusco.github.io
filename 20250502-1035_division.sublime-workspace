@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"figu",
+				"figure-004"
+			],
+			[
+				"font-sy",
+				"font-style"
+			],
+			[
+				"__",
+				"__dirname"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"lo",
+				"logger"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"new re",
+				"Package Control: New Repository…"
+			],
+			[
+				"git",
+				"Set Syntax: Git Config"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"install paclk",
+				"Package Control: Install Package"
+			],
+			[
+				"add pack",
+				"Package Control: Advanced Install Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown (Go)"
+			],
+			[
+				":s",
+				":w - Save"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sway/Documents/GitHub/play-along_maker/song_data/working_man.json",
+		"/Users/sway/Documents/GitHub/play-along_maker/index.html",
+		"/Users/sway/Documents/Exported/Ukulele Underground song 20250520-1640 (Danny's Song).mp3",
+		"/Users/sway/Documents/Exported/📡 code 20250520-1631 (play-along maker).html",
+		"/Users/sway/Documents/Exported/Art stylesheet 20250225-201346 (logseq SDJ.2025).css",
+		"/Users/sway/Documents/Exported/art stylesheet 20250228-2250 (logseq SDJ.2025).css",
+		"/Users/sway/Documents/Exported/Art stylesheet 20250227-1845 (SDJ.2025 Logseq).scss",
+		"/Users/sway/Documents/Exported/Art stylesheet 20250308-2123 (Logseq SDJ.2025).css",
+		"/Users/sway/Documents/Exported/custom.js",
+		"/Users/sway/Documents/Exported/silly.json",
+		"/Users/sway/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/sway/Library/Application Support/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/Users/sway/Documents/Exported/🟢 Quote 20240228-090420 (uke shrine).html",
+		"/Users/sway/Documents/Assembling/🟠 Packages (Promineo Assignments Drafts HTML Data)/🟠 Package (Week 10 Technical Assignment)/ 🟠 Assignment 20240222-200646 (Week 10).html",
+		"/Users/sway/Documents/GitHub/week-10-assignment/boutique_items.csv",
+		"/Users/sway/Documents/Exported/boutique_orders.csv",
+		"/Users/sway/Documents/Exported/boutique_customers",
+		"/Users/sway/Documents/Exported/boutique_employee_schedule_2024_02.csv",
+		"/Users/sway/Documents/Exported/boutique_employees.csv",
+		"/Users/sway/Documents/Exported/botique_sales_20240222-1725.csv",
+		"/Users/sway/.aws/config",
+		"/Users/sway/Documents/GitHub/Promineo-Tech/assignment-stylesheet.css",
+		"/Users/sway/Documents/Assembling/🟠 Packages (Promineo Assignments Drafts HTML Data)/🟠 Package (Week 8 Technical Assignment)/ 🟠 Assignment 20240211-024255 (Week 8).html",
+		"/Users/sway/Documents/Assembling/🟠 Packages (Promineo Assignments Drafts HTML Data)/🟠 Package (Week 8 Research Assignment)/ 🟠 Assignment (Week 8 Research 2023-11-30-de-eastern Tiago Basil Promineo Data Engineering).html",
+		"/Users/sway/Documents/Exported/sway-global-20240212.json",
+		"/Users/sway/Documents/Assembling/Assignment/ 🟠 Assignment 20240211-024255 (Week 8).html",
+		"/Users/sway/Documents/Assembling/🟠 Packages (Promineo Assignments Drafts HTML Data)/🟠 Package 20240212 (Week 8 Research Assignment)/ 🟠 Assignment (Week 8 Research 2023-11-30-de-eastern Tiago Basil Promineo Data Engineering).html",
+		"/Users/sway/Documents/Assembling/🟠 Collection (Global Assets Promineo Assignments)/🟠 Stylesheet 20240212 (Promineo Tech).css",
+		"/Users/sway/Documents/Exported/ 🟠 Assignment 20240211-024255 (Week 8).html",
+		"/Users/sway/Documents/Assembling/20240126-083000-test.sh",
+		"/Users/sway/Downloads/Clip 2024-02-08 at 18.48.17.png",
+		"/Users/sway/Documents/Exported/Sway (bryant) Fusco Assignment 20240121-174729 (Week w5 Research 2023-11-30-de-eastern Tiago Basil Promineo Data Engineering).html",
+		"/Users/sway/Library/Mobile Documents/com~apple~CloudDocs/🟧 SwayTech/🟠 Data 20240116-194336 (compliments).txt",
+		"/Users/sway/Documents/GitHub/NodeJS_101/app.js",
+		"/Users/sway/Documents/GitHub/NodeJS_101/logger.js",
+		"/Users/sway/Documents/GitHub/Promineo-Tech-Intro-to-Python/week-4.py",
+		"/Users/sway/Desktop/test.html",
+		"/Users/sway/Downloads/Promineo Tech Scripts 20231213-154024 (Week 2 Course Materials MySQL Sakila)/Promineo Tech Script 20231213-154024 (sakila-schema).sql",
+		"/Volumes/SwayStorage/SwayTech/SwayTech Clients/HowDoIStackUp.com/Version 1/rate.asp",
+		"/Volumes/SwayStorage/SwayTech/SwayTech Clients/HowDoIStackUp.com/Version 1/offer.asp",
+		"/Volumes/SwayStorage/SwayTech/SwayTech Clients/HowDoIStackUp.com/Version 1/member-pictures-process.asp",
+		"/Volumes/SwayStorage/SwayTech/SwayTech Clients/HowDoIStackUp.com/Version 1/member-im.asp",
+		"/Users/sway/Library/Mobile Documents/com~apple~CloudDocs/🟧 SwayTech/SwayTech JavaScript 20140705 (Dialog, 2.3).js",
+		"/Users/sway/Documents/SwayTech Script 20231204-214547 (Promineo Big Data Week 1 Technical Assignment).sql",
+		"/Users/sway/Documents/@Working/SwayTech Script 20231204-214547 (Promineo Big Data Week 1 Technical Assignment).sql"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "20250502-1035_division.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/GitHub/NodeJS_101/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

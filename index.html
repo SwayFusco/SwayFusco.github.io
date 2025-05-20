@@ -1,0 +1,36 @@
+<script>
+async function loadSong(songFile) {
+  const res = await fetch(songFile);
+  const song = await res.json();
+
+  // Load audio
+  document.getElementById('audio').src = song.audio;
+
+  // Render lyrics
+  const lyricsEl = document.getElementById('lyrics');
+  lyricsEl.innerHTML = '';
+  song.lyrics.forEach(lyricLine => {
+    const p = document.createElement('p');
+    let lineHTML = lyricLine.line;
+    lyricLine.chords.forEach(chordObj => {
+      lineHTML += ` <sup data-time="${chordObj.time}">${chordObj.chord}</sup>`;
+    });
+    p.innerHTML = lineHTML;
+    lyricsEl.appendChild(p);
+  });
+
+  // Render chord diagrams
+  const chordDisplay = document.getElementById('chordDisplay');
+  chordDisplay.innerHTML = '';
+  const uniqueChords = new Set(song.lyrics.flatMap(l => l.chords.map(c => c.chord)));
+  uniqueChords.forEach(chord => {
+    const div = document.createElement('div');
+    div.className = chord;
+    div.textContent = `[${chord} Diagram]`;
+    chordDisplay.appendChild(div);
+  });
+}
+
+// Example: load a song
+loadSong('working_man.json');
+</script>

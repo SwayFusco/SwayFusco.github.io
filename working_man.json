@@ -1,0 +1,38 @@
+{
+  "title": "Working Man",
+  "artist": "Ukulele Example",
+  "audio": "working_man.mp3",
+  "lyrics": [
+    {
+      "line": "When",
+      "chords": [
+        { "chord": "Dm", "time": 1.0 }
+      ]
+    },
+    {
+      "line": "someone is working",
+      "chords": [
+        { "chord": "C", "time": 3.2 }
+      ]
+    },
+    {
+      "line": "for the",
+      "chords": [
+        { "chord": "D", "time": 5.5 }
+      ]
+    },
+    {
+      "line": "man",
+      "chords": [
+        { "chord": "G", "time": 6.7 }
+      ]
+    },
+    {
+      "line": "you can always find him pale",
+      "chords": [
+        { "chord": "D7 Hawaiian", "time": 8.9 }
+      ]
+    }
+  ]
+}
+
